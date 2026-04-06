@@ -12,7 +12,7 @@ GitHub Pull Request ページの全てのリンクを新しいタブで開くよ
 
 1. このリポジトリをクローン
    ```
-   git clone https://github.com/kei-kimura/gh-pr-links-newtab.git
+   gh repo clone kimuchanman/gh-pr-links-newtab
    ```
 2. Chrome で `chrome://extensions` を開く
 3. 右上の「デベロッパーモード」を ON にする
